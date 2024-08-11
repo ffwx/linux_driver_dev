@@ -5,6 +5,7 @@ nav:
     - 关于作者: about.md
     - 课程讲义:
         - 'linux 驱动文件操作': Lectures/2024-08-11_file_ops.md
+        - 'linux 驱动时间操作': Lectures/2024-08-11_time_ops.md
     - 课程实验:
         - 'Lab0: 环境搭建': Labs/2023-01-07_Lab0.md
 theme:
